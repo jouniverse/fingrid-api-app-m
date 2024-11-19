@@ -8,6 +8,9 @@ Fingrid API key is required to use this app. You can get your own API key from [
 
 Simple use case of the app is presented [here](https://youtu.be/KivPSaXIDCk).
 
+![screenshot-dashboard](./imgs/screenshot-dashboard.png)
+![screenshot-import-export](./imgs/screenshot-import-export.png)
+
 ## License
 
 MIT License.
